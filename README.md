@@ -3,6 +3,8 @@ DefaultDark Sublime Theme
 
 Like your default Sublime theme but with a dark sidebar.
 
+![screenshot](https://cloud.githubusercontent.com/assets/498744/3799942/13ade2f8-1bf3-11e4-8f1d-2c26d0a3bb66.png)
+
 ## Installation
 
 ### With Git
