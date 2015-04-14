@@ -37,12 +37,11 @@ Add this line, or change your existing line to include this
 
 ````
 "theme": "DefaultDark.sublime-theme"
-
 ````
 
 Don't forget to add a comma after `"ignored packages"` entry. Your full file should look something like this
 
-````
+````json
 {
 	"color_scheme": "Packages/User/Color Highlighter/Monokai.tmTheme",
 	"font_size": 12.0,
